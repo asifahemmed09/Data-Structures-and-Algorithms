@@ -1,4 +1,3 @@
-# count total number of digits
 n = 5467379
 
 num = n
@@ -10,6 +9,6 @@ while num > 0:
 print(count)
 
 """
-Time Complexcity - Big O(log10(n))
-Space Complexcity - Big O(1)
+Time Complexity - O(log10(n))
+Space Complexity - O(1)
 """
